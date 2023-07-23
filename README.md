@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IsabellaNascimento8266
-- 👀 I’m interested in ...
+- 👀 I’m interested in Back End
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on transformation of reality through technology.
 
